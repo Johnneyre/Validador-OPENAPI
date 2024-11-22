@@ -1,20 +1,36 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# sveltekit-monaco-editor
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Simple and quick demo about how to use Monaco Editor in SvelteKit.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Why?
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+Why not? I am boring looking all sample Monaco Editor in React. I want to see how it works in SvelteKit.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## How to use?
+
+Clone this repo and run `npm install` to install all dependencies including Monaco Editor.
+
+Then run `npm run dev` to start the dev server.
+
+## Use case
+
+- [x] Use Monaco Editor in SvelteKit.
+- [x] As educational material for SvelteKit.
+- [x] Good as starter template, since several batteries included (Tailwind CSS etc).
+
+## Demo
+
+https://sveltekit-monaco-editor.vercel.app
+
+## References
+
+- https://dev.to/lawrencecchen/monaco-editor-svelte-kit-572
+- https://www.codelantis.com/blog/sveltekit-monaco-editor
+- https://github.com/microsoft/monaco-editor/blob/main/samples/browser-esm-vite-react/src/main.tsx (I like this)
+- and many others
+
+## License
+
+MIT
+
+Maintained by Sony Arianto Kurniawan <<sony@sony-ak.com>> and contributors.
