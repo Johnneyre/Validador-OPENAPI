@@ -36,9 +36,10 @@
 		"vitest": "^0.34.6"
 	},
 	"dependencies": {
-		"@apidevtools/swagger-parser": "^10.1.0"
+		"@apidevtools/swagger-parser": "^10.1.0",
+		"@sveltejs/adapter-vercel": "^5.6.1"
 	},
-  "engines": {
-    "node": "18.x"
-  }
+	"engines": {
+		"node": "18.x"
+	}
 }
